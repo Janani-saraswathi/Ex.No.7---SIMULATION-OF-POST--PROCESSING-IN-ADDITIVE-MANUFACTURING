@@ -46,9 +46,17 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+# Support Removal:
+<img width="1917" height="793" alt="image" src="https://github.com/user-attachments/assets/e32e0652-1a07-4c57-b4b2-6639de96a65f" />
 
-### Name:
-### Register Number:
+# UV Curing:
+<img width="1917" height="812" alt="image" src="https://github.com/user-attachments/assets/f7aad377-1f15-4f0c-94c4-402315247866" />
+
+# Heat Treatment:
+<img width="1913" height="806" alt="image" src="https://github.com/user-attachments/assets/4944d7c2-9b1f-494a-8705-3d31e8ac1e10" />
+
+### Name:JANANI SARASWATHI S
+### Register Number:212225230110
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
